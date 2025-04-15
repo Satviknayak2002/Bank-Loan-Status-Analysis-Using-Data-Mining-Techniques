@@ -41,7 +41,6 @@ Below are examples of evaluation results and visualizations:
 ### Feature Importance
 ![Feature Importance](results/feature_importance.png)
 
-*(Place the actual output images from your results folder into the `results/` directory in your repo.)*
 
 ## 📬 Author
 Developed as part of a Capstone Project for academic submission.
